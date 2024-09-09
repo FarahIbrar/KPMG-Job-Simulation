@@ -23,8 +23,8 @@ This folder includes the deliverables and related files for the proposed solutio
 
 ## Accessing and Using the Files
 
-- **For Task Overview and Requirements:** Refer to the files in the "Task Information" folder. These documents will provide you with a thorough understanding of the task requirements and background information on PinkBird.
-- **For Solution Proposal and Architecture:** Check the "Pink Bird’s Solution" folder. The PDF document summarizes the proposed solution, while the Python script and PNG image illustrate the architecture and design of the web application.
+- **For Task Overview and Requirements:** Refer to the files in the ["Task Information"](https://github.com/FarahIbrar/KPMG-Job-Simulation/tree/main/Cloud%20Engineering%20Task/Task%20Information) folder. These documents will provide you with a thorough understanding of the task requirements and background information on PinkBird.
+- **For Solution Proposal and Architecture:** Check the ["Pink Bird’s Solution"](https://github.com/FarahIbrar/KPMG-Job-Simulation/tree/main/Cloud%20Engineering%20Task/PinkBird's%20Solution) folder. The PDF document summarizes the proposed solution, while the Python script and PNG image illustrate the architecture and design of the web application.
 
 ---
 
