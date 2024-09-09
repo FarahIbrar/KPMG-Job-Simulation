@@ -9,8 +9,8 @@ Welcome to the "Cloud Engineering Task" folder. This repository contains all the
 ### 1. Task Information
 This folder contains essential documents that provide a detailed overview of the task and background information about PinkBird.
 
-- **KPMG - Job Simulation - Task5.pdf:** This document outlines the task requirements, objectives, and expectations. It provides a comprehensive guide to what needs to be accomplished.
-- **PinkBird’s Background Information:** This file offers detailed information about PinkBird, including its business model, objectives, and other relevant details needed to understand the context of the task.
+- **KPMG - Job Simulation - Task5.pdf:** This [document](https://github.com/FarahIbrar/KPMG-Job-Simulation/blob/main/Cloud%20Engineering%20Task/Task%20Information/KPMG%20-%20Job%20Simulation%20-%20Task5.pdf) outlines the task requirements, objectives, and expectations. It provides a comprehensive guide to what needs to be accomplished.
+- **PinkBird’s Background Information:** This [file](https://github.com/FarahIbrar/KPMG-Job-Simulation/blob/main/Cloud%20Engineering%20Task/Task%20Information/PinkBird%20Background%20Information.pdf) offers detailed information about PinkBird, including its business model, objectives, and other relevant details needed to understand the context of the task.
 
 ### 2. Pink Bird’s Solution
 This folder includes the deliverables and related files for the proposed solution.
