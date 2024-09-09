@@ -15,9 +15,9 @@ This folder contains essential documents that provide a detailed overview of the
 ### 2. Pink Bird’s Solution
 This folder includes the deliverables and related files for the proposed solution.
 
-- **PinkBird's Web Application Proposal.pdf:** This document summarizes the proposed solution for PinkBird, detailing how it meets the requirements and addresses the task objectives. It includes an overview of the architecture and its benefits.
-- **pinkbird_web_application_architecture.py:** This Python script contains the code used to generate the architecture diagram image. It is used to visually represent the proposed solution.
-- **pinkbird_web_application_architecture.png:** This PNG image is the visual representation of the proposed web application architecture, created using the Python script.
+- **PinkBird's Web Application Proposal.pdf:** This [document](https://github.com/FarahIbrar/KPMG-Job-Simulation/blob/main/Cloud%20Engineering%20Task/PinkBird's%20Solution/PinkBird's%20Web%20Application%20Proposal.pdf) summarizes the proposed solution for PinkBird, detailing how it meets the requirements and addresses the task objectives. It includes an overview of the architecture and its benefits.
+- **pinkbird_web_application_architecture.py:** This [Python script](https://github.com/FarahIbrar/KPMG-Job-Simulation/blob/main/Cloud%20Engineering%20Task/PinkBird's%20Solution/pinkbird_web_application_architecture%20.py) contains the code used to generate the architecture diagram image. It is used to visually represent the proposed solution.
+- **pinkbird_web_application_architecture.png:** This [PNG image](https://github.com/FarahIbrar/KPMG-Job-Simulation/blob/main/Cloud%20Engineering%20Task/PinkBird's%20Solution/pinkbird_web_application_architecture.png) is the visual representation of the proposed web application architecture, created using the Python script.
 
 ---
 
