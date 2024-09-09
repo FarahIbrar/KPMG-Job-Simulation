@@ -78,7 +78,7 @@ This repository showcases my work from the KPMG Job Simulation, highlighting my 
 To explore the projects, navigate to the respective folders to access the detailed files and analyses. 
 
 - For the **Cloud Engineering Task**, review the proposed architecture and solution documents.
-- For the **Data Analytics Task**, check out the dataset, analysis scripts, and final summary.
+- For the **Data Analytics Task**, check out the dataset, analysis scripts, and final executive summary.
 
 ---
 
