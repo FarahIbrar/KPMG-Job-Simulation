@@ -32,6 +32,8 @@ This folder includes the deliverables and related files for the proposed solutio
 
 From this task, I learned how to design and propose a cloud-based solution tailored to a specific business requirement. I gained experience in integrating AWS services to create a scalable, secure, and efficient architecture.
 
+---
+
 ## Future Implications
 
 The proposed solution will enhance PinkBird's R&D grant application process by providing a robust web application framework. This will improve user experience and operational efficiency while allowing for future scalability and optimization.
