@@ -47,14 +47,7 @@ Below, you'll find detailed information about these tasks and their associated f
 
 ---
 
-## Skills Learned
-
-- **Cloud Engineering**: Gained experience in designing cloud architecture, evaluating cloud readiness, and proposing cloud solutions for a global company.
-- **Data Analytics**: Enhanced skills in data analysis, visualization, and deriving actionable insights from large datasets.
-
----
-
-## Summary of What I Learned
+## Summary of What I Learned/
 
 - **Cloud Engineering**: Developed expertise in creating scalable and efficient cloud architectures tailored to business needs.
 - **Data Analytics**: Improved proficiency in analyzing sales data, identifying key performance metrics, and generating actionable insights to drive business strategies.
