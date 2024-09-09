@@ -94,6 +94,7 @@ The dataset provided by KPMG includes over 50,000 sales transactions from variou
 - **Data Analysis:** Enhanced proficiency in analyzing large datasets and deriving actionable insights.
 - **Data Visualization:** Improved skills in creating visualizations to effectively communicate data findings.
 - **Strategic Thinking:** Developed a strategic approach to store management, regional expansion, and product selection.
+- **Creating Executive Summaries:** Acquired knowledge and skills on how to create an impactful and valuable **"Executive Summary"**. An executive summary for this project can be found in [here]().
 
 --- 
 
