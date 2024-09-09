@@ -47,9 +47,13 @@ The goal is to design a responsive web application integrated into PinkBird’s 
 
 The architecture diagram was created using Python, which allowed for precise and customizable visual representation of the proposed solution.
 
+---
+
 ### What I Learned from Doing This Task for PinkBird
 
 Through this task, I gained practical experience in designing scalable and secure cloud architectures using AWS services. I learned how to integrate various AWS components to meet specific business requirements and ensure that the solution is modular and efficient.
+
+---
 
 ### Future Implications of the Proposed Solution
 
