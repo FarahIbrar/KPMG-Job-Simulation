@@ -31,6 +31,8 @@ The goal is to design a responsive web application integrated into PinkBird’s 
 #### Monitoring and Logging
 - **AWS CloudWatch:** Provides monitoring and logging capabilities to track API requests, application performance, and other key metrics, enabling proactive management and troubleshooting.
 
+![pinkbird_web_application_architecture](https://github.com/user-attachments/assets/c04b5890-5524-4545-a373-44933c0598a4)
+
 ---
 
 ### How the Proposed Architecture Meets PinkBird's Requirements
