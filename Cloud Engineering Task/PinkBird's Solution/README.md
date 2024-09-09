@@ -1,8 +1,12 @@
 # PinkBird Web Application Architecture
 
+---
+
 ## Objective of the Architecture
 
 The goal is to design a responsive web application integrated into PinkBird’s existing website for automating the lifecycle of R&D grant applications. This application will include features for eligibility checks, necessary preparations, and feedback through text mining and machine learning. The architecture will be modular, secure, and scalable, leveraging AWS services.
+
+---
 
 ### Key AWS Components Used
 
@@ -27,6 +31,8 @@ The goal is to design a responsive web application integrated into PinkBird’s 
 #### Monitoring and Logging
 - **AWS CloudWatch:** Provides monitoring and logging capabilities to track API requests, application performance, and other key metrics, enabling proactive management and troubleshooting.
 
+---
+
 ### How the Proposed Architecture Meets PinkBird's Requirements
 
 - **Scalability and Cost Efficiency:** AWS Lambda and other serverless components ensure automatic scaling based on demand, reducing costs associated with idle compute time.
@@ -34,6 +40,8 @@ The goal is to design a responsive web application integrated into PinkBird’s 
 - **Secure and Reliable Data Management:** AWS Cognito and AWS WAF provide robust security, while Amazon DynamoDB ensures reliable and fast data access.
 - **Machine Learning and NLP Integration:** Amazon SageMaker integrates with backend APIs to offer real-time analysis and feedback on grant eligibility and preparation.
 - **Compliance and High Availability:** AWS services comply with international standards and support multi-region deployment for high availability and disaster recovery.
+
+---
 
 ### Implementation
 
