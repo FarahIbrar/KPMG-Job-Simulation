@@ -1,1 +1,1 @@
-# This folder has results images of the task
+# This folder has visulatisation results of the Wondermarket Analysis task.
