@@ -16,15 +16,15 @@ Welcome to the "Task Information" folder. This folder contains key documents rel
 
 1. **Business Understanding:** 
    - Review the company background document to understand PinkBird and their requirements for the web application.
-   - Estimated Time: 5-10 minutes.
+   - **Estimated Time:** 5-10 minutes.
 
 2. **Explore AWS Services:**
    - Research AWS products and services to determine the best options for building the solution.
-   - Estimated Time: 30-45 minutes.
+   - **Estimated Time:** 30-45 minutes.
 
 3. **Document the Architecture:**
    - Create an architecture diagram and explanation detailing the chosen AWS services and how they integrate.
-   - Estimated Time: 15-20 minutes.
+   - **Estimated Time:** 15-20 minutes.
 
 ---
 
