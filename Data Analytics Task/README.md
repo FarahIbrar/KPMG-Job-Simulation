@@ -1,4 +1,4 @@
-# KPMG's Data Analytics Task
+# KPMG - Data Analytics Task
 
 ---
 
