@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is part of a KPMG job simulation with Forage, focused on Data Analytics for **Wondermarket**, a sustainable German retail supermarket founded in 2016. Wondermarket, headquartered in Berlin, operates in Germany, the UK, France, and Belgium, with around 15,000 employees. The company's goal is to become the leading sustainable supermarket globally within the next 10 years by focusing on reduced packaging and selling exclusively their own branded products.
+This mini-project/task is part of a KPMG job simulation with Forage, focused on Data Analytics for **Wondermarket**, a sustainable German retail supermarket founded in 2016. Wondermarket, headquartered in Berlin, operates in Germany, the UK, France, and Belgium, with around 15,000 employees. The company's goal is to become the leading sustainable supermarket globally within the next 10 years by focusing on reduced packaging and selling exclusively their own branded products.
 
 The aim of this project is to analyze Wondermarket’s sales data to provide actionable insights for business decision-making, such as identifying the best and worst-performing stores, understanding regions with growth potential for new stores, and determining the top 5 products to maximize profit in new store locations.
 
