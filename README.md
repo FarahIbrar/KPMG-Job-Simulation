@@ -47,7 +47,7 @@ Below, you'll find detailed information about these tasks and their associated f
 
 ---
 
-## Summary of What I Learned/
+## Summary of What I Learned
 
 - **Cloud Engineering**: Developed expertise in creating scalable and efficient cloud architectures tailored to business needs.
 - **Data Analytics**: Improved proficiency in analyzing sales data, identifying key performance metrics, and generating actionable insights to drive business strategies.
